@@ -53,11 +53,7 @@
 ### DAPP流程图:
 ![Image description](https://images.gitee.com/uploads/images/2021/0816/001223_d6911955_9395587.png "QQ图片20210806025718.png")
 
-### 致谢：
 
-- Reach Team（discord）
-- Ivan
-- 所有给过我们帮助和鼓励的人
 #� �R�e�a�c�h�B�o�u�n�t�y�H�a�c�k�
 �
 �# hackreach
